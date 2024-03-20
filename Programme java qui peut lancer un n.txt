@@ -1,4 +1,0 @@
-Programme java qui peut lancer un nbre quelconque de processus, chaque processus pouvant écrire dans une section critique. La dite section peut être un fichier ou une BD ou meme un tableau en mémoire.
-Classe Semaphore, les Trees
-
-Code bien structuré et nomenclature des variables
