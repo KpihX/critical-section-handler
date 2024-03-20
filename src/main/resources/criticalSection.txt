@@ -1,0 +1,15 @@
+Process 0: I am starting!
+Process 1: I am starting!
+Process 0: This is my line N°0.
+Process 1: This is my line N°0.
+Process 2: I am starting!
+Process 3: I am starting!
+Process 0: This is my line N°1.
+Process 2: This is my line N°0.
+Process 4: I am starting!
+Process 1: This is my line N°1.
+Process 3: This is my line N°0.
+Process 2: This is my line N°1.
+Process 4: This is my line N°0.
+Process 3: This is my line N°1.
+Process 4: This is my line N°1.
